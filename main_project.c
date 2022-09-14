@@ -1,5 +1,5 @@
 /*
- * COD_FINAL.c
+ * main.c
  *
  * Created: 01-Jun-20 10:34:56 PM
  * Author : Iulia
